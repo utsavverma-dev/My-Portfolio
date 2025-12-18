@@ -71,7 +71,8 @@ The portfolio website presents:
 - Technology tags  
 - Direct links to GitHub repositories  
 
-> 
+> ![Portfolio](public/assets/portfolio.png)
+
 
 ---
 
