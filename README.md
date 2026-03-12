@@ -80,19 +80,15 @@ The portfolio website presents:
 
 ```bash
 # Clone the repository
-git clone https://github.com/utsavverma-dev/Utsav-Portfolio.git
+git clone https://github.com/utsavverma-dev/My-Portfolio.git
 
-# Open index.html or run via local server
-If using a framework:
-
-bash
-Copy code
+# Install dependencies and run locally
 npm install
 npm run dev
 ```
 ---
 
-🎯 Goals
+## 🎯 Goals
 Build production-ready backend projects
 
 Improve API design and system architecture
@@ -101,7 +97,7 @@ Secure a Java Backend Intern / Fresher role
 
 ---
 
-📬 Contact
+## 📬 Contact
 GitHub: https://github.com/utsavverma-dev
 
 LinkedIn: https://www.linkedin.com/in/utsav-verma-928886308/
